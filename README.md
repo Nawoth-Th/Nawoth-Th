@@ -1,4 +1,4 @@
-### Hi there ! 👋      ![watchers](https://img.shields.io/github/watchers/Nawoth-Th/Nawoth-Th?color=q&style=flat-square)
+### Hi there ! 👋 
 
 <!--
 **Nawoth-Th/Nawoth-Th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
