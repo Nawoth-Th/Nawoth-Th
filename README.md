@@ -1,5 +1,5 @@
 ### Hi there ! :wave:
-
+https://github-readme-stats.vercel.app/api?username=Nawoth-th
 <!--
 **Nawoth-Th/Nawoth-Th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
