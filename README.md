@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nawoth 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Undergraduate+Software+Engineer;React+Frontend+Developer;Automation+%26+Backend+Enthusiast;Building+Clean+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Undergraduate+Techie+Creature;React+Frontend+Developer;Automation+%26+Backend+Enthusiast;Building+Clean+and+Scalable+Systems" />
 </p>
 
 <p align="center">
