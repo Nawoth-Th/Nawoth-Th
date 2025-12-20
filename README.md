@@ -6,8 +6,8 @@
 
 <p align="center">
   <!-- GitHub Actions Badge -->
-  <img src="https://img.shields.io/github/actions/workflow/status/Nawoth-Th/Nawoth-Th/profile-readme.yml?style=flat&label=CI&logo=github" />
-  
+  <img src="https://img.shields.io/github/actions/workflow/status/Nawoth-Th/whisperwall.live/ci.yml?style=flat&label=WhisperWall%20Status&logo=github" />
+
   <!-- Visitor Counter (subtle) -->
   <img src="https://komarev.com/ghpvc/?username=Nawoth-Th&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
