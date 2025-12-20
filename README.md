@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Actions Badge -->
-  <img src="https://img.shields.io/github/actions/workflow/status/Nawoth-Th/whisperwall.live/ci.yml?style=flat&label=WhisperWall%20Status&logo=github" />
-
-  <!-- Visitor Counter (subtle) -->
   <img src="https://komarev.com/ghpvc/?username=Nawoth-Th&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
@@ -25,9 +21,45 @@ I am an **undergraduate software engineering student** with hands-on experience 
 - 🌱 Improving full-stack, DevOps, and cloud skills
 - 🤝 Open to internships and technical collaborations
 
+---
+
+## 📈 Repository Overview
+This snapshot includes my activity across both **public** and **private** development environments.
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawoth-Th&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawoth-Th&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </p>
+
+- 📂 **Public Repos:** Open-source projects and templates.
+- 🔒 **Private Repos:** Internal automation tools, client work, and active research.
+- ⚡ **Activity:** Consistently building and refining systems.
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/nawoth" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/94729967421" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:nawoth.th@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/nawoth" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/nawo__th" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/nawoth" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -48,29 +80,7 @@ I am an **undergraduate software engineering student** with hands-on experience 
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=flat&logo=digitalocean)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat&logo=visualstudiocode)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawoth-Th&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawoth-Th&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawoth-Th&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=2" />
-</p>
+---
 
 ## 💻 Terminal Snapshot
 
