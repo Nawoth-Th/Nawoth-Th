@@ -38,12 +38,24 @@ This snapshot includes my activity across both **public** and **private** develo
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/nawoth" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://wa.me/94729967421" target="_blank"><img src="https://skillicons.dev/icons?i=workers" height="40" alt="WhatsApp alternative"/></a>
-  <a href="mailto:nawoth.th@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://t.me/nawoth" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" height="40" /></a>
-  <a href="https://www.instagram.com/nawo__th" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.facebook.com/nawoth" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
+  <a href="https://www.linkedin.com/in/nawoth" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://wa.me/94729967421" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+  </a>
+  <a href="mailto:nawoth.th@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://t.me/nawoth" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="40" />
+  </a>
+  <a href="https://www.instagram.com/nawo__th" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://www.facebook.com/nawoth" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
 </p>
 
 ---
