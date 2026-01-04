@@ -27,7 +27,7 @@ I am an **undergraduate software engineering student** with hands-on experience 
 This snapshot includes my activity across both **public** and **private** development environments.
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Nawoth-Th?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FColombo" alt="Metrics" width="100%" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,py,docker,linux,html,css,tailwind,mongodb,mysql,git" />
 </p>
 
 - 📂 **Public Repos:** Open-source projects and templates.
@@ -38,24 +38,12 @@ This snapshot includes my activity across both **public** and **private** develo
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/nawoth" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/94729967421" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:nawoth.th@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/nawoth" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/nawo__th" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/nawoth" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://www.linkedin.com/in/nawoth" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://wa.me/94729967421" target="_blank"><img src="https://skillicons.dev/icons?i=workers" height="40" alt="WhatsApp alternative"/></a>
+  <a href="mailto:nawoth.th@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://t.me/nawoth" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" height="40" /></a>
+  <a href="https://www.instagram.com/nawo__th" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://www.facebook.com/nawoth" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
 </p>
 
 ---
