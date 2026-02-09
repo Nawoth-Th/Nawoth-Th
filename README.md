@@ -13,7 +13,7 @@
 </p>
 
 ## 🧠 About Me
-I am an **undergraduate software engineering student** with hands-on experience in **React-based frontend development**, **backend services**, and **automation systems**. I focus on writing clean, maintainable code and building systems that scale.
+I am an **undergraduate Information Technology student** with hands-on experience in **React-based frontend development**, **backend services**, and **automation systems**. I focus on writing clean, maintainable code and building systems that scale.
 
 - 🎓 Undergraduate (Software / IT-related discipline)
 - ⚛️ Built multiple **React-based websites**
