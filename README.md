@@ -84,7 +84,9 @@ This snapshot includes my activity across both **public** and **private** develo
 ## ❤️ Sponsor Me
 
 <p align="center">
-  <iframe src="https://github.com/sponsors/Nawoth-Th/button" title="Sponsor Nawoth-Th" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  <a href="https://github.com/sponsors/Nawoth-Th">
+    <img src="https://img.shields.io/badge/Sponsor_Me-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor Me" />
+  </a>
 </p>
 
 > **Hey, I'm just a student who codes too much and budgets too little!** 🎓💸
