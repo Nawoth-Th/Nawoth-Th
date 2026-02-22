@@ -81,7 +81,25 @@ This snapshot includes my activity across both **public** and **private** develo
 
 ---
 
-## 💻 Terminal Snapshot
+## � Sponsor Me
+
+<p align="center">
+  <a href="https://github.com/sponsors/Nawoth-Th">
+    <img src="https://img.shields.io/badge/💖_Sponsor_Me-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor Me" />
+  </a>
+</p>
+
+> **Hey, I'm just a student who codes too much and budgets too little!** 🎓💸
+>
+> Between buying domains at 3 AM because _"this project name is too cool not to own"_ and keeping servers alive so my projects don't disappear into the void — my wallet has seen better days. ☕🍜
+>
+> If my work has helped you, made you smile, or saved you a few hours of debugging — your support means the world to me. Every donation is like a **💎 diamond** — rare, precious, and deeply appreciated!
+>
+> _Even a small coffee-sized donation keeps a student dev's dream server running!_ ☕✨
+
+---
+
+## �💻 Terminal Snapshot
 
 ```bash
 $ whoami
