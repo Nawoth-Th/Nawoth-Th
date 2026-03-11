@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://nawoth.me" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=0ea5e9&center=true&vCenter=true&width=350&lines=🚀+Explore+My+Portfolio;🌐+Visit+nawoth.me" alt="nawoth.me" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=0ea5e9&center=true&vCenter=true&width=350&lines=%F0%9F%9A%80+Explore+My+Portfolio;%F0%9F%8C%90+Visit+nawoth.me" alt="nawoth.me" />
   </a>
 </p>
 
