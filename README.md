@@ -21,7 +21,7 @@
 ## 🧠 About Me
 I am an **undergraduate Information Technology student** with hands-on experience in **React-based frontend development**, **backend services**, and **automation systems**. I focus on writing clean, maintainable code and building systems that scale.
 
-- 🎓 Undergraduate at SLIIT (Software / IT-related discipline)
+- 🎓 Undergraduate at **SLIIT** (Software / IT-related discipline)
 - ⚛️ Built multiple **React-based websites**
 - 🤖 Automation, bots, and workflow integrations
 - 🌱 Improving full-stack, DevOps, and cloud skills
