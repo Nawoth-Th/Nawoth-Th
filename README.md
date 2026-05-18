@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Nawoth 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Undergraduate+Techie+Creature;React+Frontend+Developer;Automation+%26+Backend+Enthusiast;Building+Clean+and+Scalable+Systems" />
+  <a href="https://nawoth.me" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Undergraduate+Techie+Creature;React+Frontend+Developer;Automation+%26+Backend+Enthusiast;Building+Clean+and+Scalable+Systems;Explore+My+Portfolio+Visit+-+Nawoth.Me"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nawoth-Th&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://nawoth.me" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=0ea5e9&center=true&vCenter=true&width=350&lines=%F0%9F%9A%80+Explore+My+Portfolio;%F0%9F%8C%90+Visit+nawoth.me" alt="nawoth.me" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2" />
