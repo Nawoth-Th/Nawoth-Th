@@ -13,6 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=Nawoth-Th&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://devglobe.app/developers/Nawoth-Th"><img src="https://devglobe.app/api/badge/Nawoth-Th/coding-time-all.svg?theme=dark" alt="Coding time (all-time)"></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2" />
@@ -87,6 +90,12 @@ This snapshot includes my activity across both **public** and **private** develo
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=flat&logo=digitalocean)
+
+---
+
+<p align="center">
+  <a href="https://devglobe.app/developers/Nawoth-Th"><img src="https://devglobe.app/api/card/Nawoth-Th/langs-7d.svg?theme=dark" alt="Languages (last 7 days)" width="480"></a>
+</p>
 
 ---
 
