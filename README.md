@@ -93,6 +93,8 @@ This snapshot includes my activity across both **public** and **private** develo
 
 ---
 
+## ⚡ Current Coding Activity
+
 <p align="center">
   <a href="https://devglobe.app/developers/Nawoth-Th"><img src="https://devglobe.app/api/card/Nawoth-Th/langs-7d.svg?theme=dark" alt="Languages (last 7 days)" width="480"></a>
 </p>
